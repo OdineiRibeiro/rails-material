@@ -13,8 +13,6 @@ Um centralizador de materiais sobre rails para eu não perder esses links. E sob
 ### Tutoriais
 - [Rails Girls Tutorial](http://www.maujor.com/railsgirlsguide/)
 
-E não é porque eu gosto de Ruby on Rails que eu vou deixar de estudar outras linguagens... 
-
 ## Python e Django
 
 ### Tutoriais
